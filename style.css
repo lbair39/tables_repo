@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(217, 196, 255);}
+header { 
+    font-size: 50px;
+    border: solid white 2px;
+    text-align: center;
+    background-color:rgb(255, 194, 235);
+    border-radius: 15px;;
+}
+table {border-spacing: 0;
+    width: 600px;
+    text-align: center;
+    margin: 5px;
+}
+#category {
+    background-color: rgb(140, 194, 255);
+    border: solid white 2px;
+}
+#answer {
+    background-color: rgb(166, 215, 255);
+    border: solid white 2px;
+    padding: 5px;
+}
+#amount {
+    background-color: rgb(255, 194, 235); 
+    border: solid white 2px;
+    padding: 3px;
+}
